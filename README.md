@@ -1,6 +1,6 @@
 # UTPL-Sismos
 
-Repositorio de **enventos sísmicos** del Sur del Ecuador obtenido a través del procesamiento de datos de la red de acelerómetros de la **UTPL**. 
+Repositorio de **eventos sísmicos** del Sur del Ecuador obtenido a través del procesamiento de datos de la red de acelerómetros de la **UTPL**. 
 
 # Información
 

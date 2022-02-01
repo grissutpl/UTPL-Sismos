@@ -6,7 +6,7 @@ Repositorio de **eventos sísmicos** del Sur del Ecuador obtenido a través del 
 
 En el apartado "Reportes" se pueden encontrar los diferentes reportes generados después de un evento sísmico con intensidad suficiente para ser sentido por la población en el Sur del Ecuador. Puede ver los archivos en la carpeta [Reportes](Reportes/)
 
-## Datos de los reportes
+### Datos de los reportes
 
 Cada reporte incluye la siguiente información:
 - Componentes E-O de aceleraciones, velocidades y desplazamientos del evento.
@@ -14,6 +14,6 @@ Cada reporte incluye la siguiente información:
 - Componentes verticales (Z) de aceleraciones, velocidades desplazamientos del evento.
 - Espectros de aceleraciones, velocidades y desplazamientos para cada uno de los componentes descritos.
 
-## Requerimiento de información
+### Requerimiento de información
 
 Si necesita los datos numéricos en crudo o procesados, se puede hacer el requerimiento al correo epduque@utpl.edu.ec

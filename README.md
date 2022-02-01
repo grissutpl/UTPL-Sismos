@@ -16,7 +16,7 @@ Cada reporte incluye la siguiente información:
 
 El nombre del archivo representa la siguiente información:
 
-*YYYYMMDDHHMM_UBICACIONESTACION_MAGNITUDX.X_PROFUNDIDADXX.X*
+*YYYYMMDDHHMM_UbicaciónEstación_Magnitud_Profundidad*
 
 Ejemplo:
 

@@ -20,7 +20,7 @@ El nombre del archivo representa la siguiente información:
 
 Ejemplo:
 
-**202201240010_MACARA_M3.5_PROF42.2.pdf** representa un reporte correspondiente a un evento sucedido el 24 de enero del 2022 a las 00:10 horas, con una magnitud de 3.% y una profundidad de 42.2 kM, registrado en la estación Macará.
+**202201240010_MACARA_M3.5_PROF42.2.pdf** representa un reporte correspondiente a un evento sucedido el 24 de enero del 2022 a las 00:10 horas, con una magnitud de 3.5 y una profundidad de 42.2 kM, registrado en la estación Macará.
 
 # Requerimiento de la información
 
